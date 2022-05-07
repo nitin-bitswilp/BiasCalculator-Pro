@@ -25,6 +25,7 @@ The features which are currently supported are listed below,
 - Power
 
 ## Team Members
+
 |Name|BITS ID|Email|
 |----|-----|-----|
 |Nirmal Kumar S|2020MT93549|<2020mt93549@wilp.bits-pilani.ac.in>
